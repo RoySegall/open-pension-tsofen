@@ -2,6 +2,7 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs')
 const app = express();
+const querystring = require('querystring');
 
 const port = process.env.PORT || 3000;
 
@@ -55,12 +56,35 @@ Object.entries(apis).map(api => {
 
       // Calculate the current page and the keys we need to display in the current page.
       const page = parseInt(req.query.page ? req.query.page : 0);
-      const objectIdentifiers = Object.keys(objectsFromFiles);
-      const slicedKeys = objectIdentifiers.slice(page * perPage, (page + 1) * perPage);
+
+      let objectEntries = Object.entries(objectsFromFiles);
+
+      // Filter by the query params.
+      if (req.query.filter) {
+        objectEntries = objectEntries.filter((item) => {
+          const [,object] = item;
+          const { filter } = req.query;
+
+          let matchFilter = true;
+          Object.entries(filter).map(entry => {
+            const [key, value] = entry;
+            if (object[key] != value) {
+              matchFilter = false;
+            }
+          });
+
+          return matchFilter;
+        });
+      }
+
+      const slicedEntries = objectEntries.slice(page * perPage, (page + 1) * perPage);
 
       // Building the current data for the page.
       const data = {};
-      slicedKeys.map(key => data[key] = objectsFromFiles[key]);
+      slicedEntries.map(row => {
+        const [key, object] = row;
+        data[key] = object;
+      });
 
       // Build the info section.
       let address = getCurrentAddress(req);
@@ -68,7 +92,7 @@ Object.entries(apis).map(api => {
 
       const info = {
         current: page,
-        pages: Math.floor(objectIdentifiers.length / perPage),
+        pages: Math.floor(objectEntries.length / perPage),
       };
 
       if (info.pages !== 1) {
