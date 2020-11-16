@@ -1,0 +1,3592 @@
+{
+  "1": {
+    "Compane_ID": 520043860,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.000533333333333333
+  },
+  "2": {
+    "Compane_ID": 520038274,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000466666666666666
+  },
+  "3": {
+    "Compane_ID": 520038274,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.001
+  },
+  "4": {
+    "Compane_ID": 520038274,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.01038
+  },
+  "5": {
+    "Compane_ID": 520038274,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.049699999999999994
+  },
+  "6": {
+    "Compane_ID": 520038274,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.12240000000000001
+  },
+  "7": {
+    "Compane_ID": 510119068,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.034249999999999996
+  },
+  "8": {
+    "Compane_ID": 510119068,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0815
+  },
+  "9": {
+    "Compane_ID": 510119068,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.031200000000000002
+  },
+  "10": {
+    "Compane_ID": 510119068,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00105
+  },
+  "11": {
+    "Compane_ID": 520035171,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.00125
+  },
+  "12": {
+    "Compane_ID": 520035171,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0427333333333333
+  },
+  "13": {
+    "Compane_ID": 513057588,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.06955
+  },
+  "14": {
+    "Compane_ID": 513057588,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.13225
+  },
+  "15": {
+    "Compane_ID": 514401702,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0016
+  },
+  "16": {
+    "Compane_ID": 514401702,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0004
+  },
+  "17": {
+    "Compane_ID": 514401702,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0406
+  },
+  "18": {
+    "Compane_ID": 514401702,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0255
+  },
+  "19": {
+    "Compane_ID": 510490071,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.03675
+  },
+  "20": {
+    "Compane_ID": 510490071,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0794
+  },
+  "21": {
+    "Compane_ID": 510490071,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.062
+  },
+  "22": {
+    "Compane_ID": 510490071,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.019299999999999998
+  },
+  "23": {
+    "Compane_ID": 510490071,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.05255
+  },
+  "24": {
+    "Compane_ID": 510490071,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0218
+  },
+  "25": {
+    "Compane_ID": 513734566,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0062
+  },
+  "26": {
+    "Compane_ID": 513734566,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.08985
+  },
+  "27": {
+    "Compane_ID": 513734566,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0516
+  },
+  "28": {
+    "Compane_ID": 520036153,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0152
+  },
+  "29": {
+    "Compane_ID": 520036153,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.08875
+  },
+  "30": {
+    "Compane_ID": 512499344,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0233
+  },
+  "31": {
+    "Compane_ID": 512499344,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0697
+  },
+  "32": {
+    "Compane_ID": 511068256,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.1047
+  },
+  "33": {
+    "Compane_ID": 511068256,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0049
+  },
+  "34": {
+    "Compane_ID": 511068256,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0672
+  },
+  "35": {
+    "Compane_ID": 520025990,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00222
+  },
+  "36": {
+    "Compane_ID": 520025990,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0164333333333333
+  },
+  "37": {
+    "Compane_ID": 520025990,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.01315
+  },
+  "38": {
+    "Compane_ID": 520038605,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.01065
+  },
+  "39": {
+    "Compane_ID": 513773564,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.020099999999999996
+  },
+  "40": {
+    "Compane_ID": 513773564,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.07075000000000001
+  },
+  "41": {
+    "Compane_ID": 511029373,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0759
+  },
+  "42": {
+    "Compane_ID": 511029373,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.08439999999999999
+  },
+  "43": {
+    "Compane_ID": 520039132,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0467
+  },
+  "44": {
+    "Compane_ID": 520039132,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.08323333333333331
+  },
+  "45": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.000375
+  },
+  "46": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00028333333333333303
+  },
+  "47": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.01898
+  },
+  "48": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0553666666666666
+  },
+  "49": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00048333333333333296
+  },
+  "50": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0188666666666666
+  },
+  "51": {
+    "Compane_ID": 511659401,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0858333333333333
+  },
+  "52": {
+    "Compane_ID": 520042219,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0043
+  },
+  "53": {
+    "Compane_ID": 520042219,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0466
+  },
+  "54": {
+    "Compane_ID": 520034380,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.00485
+  },
+  "55": {
+    "Compane_ID": 520042458,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0031
+  },
+  "56": {
+    "Compane_ID": 520042458,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.09300000000000001
+  },
+  "57": {
+    "Compane_ID": 520041773,
+    "Manager_ID": 520034356,
+    "Rate_Of_Holding": 0.042300000000000004
+  },
+  "58": {
+    "Compane_ID": 520041773,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0768
+  },
+  "59": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00115
+  },
+  "60": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00755
+  },
+  "61": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0037
+  },
+  "62": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.09524999999999989
+  },
+  "63": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.17465
+  },
+  "64": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0735499999999999
+  },
+  "65": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0441
+  },
+  "66": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.084
+  },
+  "67": {
+    "Compane_ID": 515001659,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0313
+  },
+  "68": {
+    "Compane_ID": 520042763,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00295
+  },
+  "69": {
+    "Compane_ID": 520042763,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00105
+  },
+  "70": {
+    "Compane_ID": 520042763,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0002
+  },
+  "71": {
+    "Compane_ID": 520042763,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.050575
+  },
+  "72": {
+    "Compane_ID": 520042763,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0446
+  },
+  "73": {
+    "Compane_ID": 520042763,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.04415
+  },
+  "74": {
+    "Compane_ID": 520017146,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0017499999999999998
+  },
+  "75": {
+    "Compane_ID": 520017146,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.10980000000000001
+  },
+  "76": {
+    "Compane_ID": 514329580,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0535
+  },
+  "77": {
+    "Compane_ID": 514329580,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0535
+  },
+  "78": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 514060904,
+    "Rate_Of_Holding": 0.0025
+  },
+  "79": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000166666666666666
+  },
+  "80": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0005666666666666661
+  },
+  "81": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00027
+  },
+  "82": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.049325
+  },
+  "83": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00559999999999999
+  },
+  "84": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0132666666666666
+  },
+  "85": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.020499999999999997
+  },
+  "86": {
+    "Compane_ID": 520038506,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0265599999999999
+  },
+  "87": {
+    "Compane_ID": 513488833,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.044199999999999996
+  },
+  "88": {
+    "Compane_ID": 511164907,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0362
+  },
+  "89": {
+    "Compane_ID": 520025370,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0008
+  },
+  "90": {
+    "Compane_ID": 520025370,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0473
+  },
+  "91": {
+    "Compane_ID": 520025370,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.032799999999999996
+  },
+  "92": {
+    "Compane_ID": 520028911,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.004050000000000001
+  },
+  "93": {
+    "Compane_ID": 520028911,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.07185
+  },
+  "94": {
+    "Compane_ID": 520028911,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.09215
+  },
+  "95": {
+    "Compane_ID": 520028911,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.11085
+  },
+  "96": {
+    "Compane_ID": 520039967,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0021
+  },
+  "97": {
+    "Compane_ID": 520039967,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.011200000000000002
+  },
+  "98": {
+    "Compane_ID": 520039967,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00215
+  },
+  "99": {
+    "Compane_ID": 520039967,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.059849999999999896
+  },
+  "100": {
+    "Compane_ID": 520039967,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.04385
+  },
+  "101": {
+    "Compane_ID": 520039967,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0646
+  },
+  "102": {
+    "Compane_ID": 510607328,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0649
+  },
+  "103": {
+    "Compane_ID": 510607328,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0862
+  },
+  "104": {
+    "Compane_ID": 520038894,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.12435
+  },
+  "105": {
+    "Compane_ID": 520038894,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00103333333333333
+  },
+  "106": {
+    "Compane_ID": 520028036,
+    "Manager_ID": 511853699,
+    "Rate_Of_Holding": 0.0036
+  },
+  "107": {
+    "Compane_ID": 520028036,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0021
+  },
+  "108": {
+    "Compane_ID": 520028036,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.05215
+  },
+  "109": {
+    "Compane_ID": 520026683,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.000422727272727272
+  },
+  "110": {
+    "Compane_ID": 520026683,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00018333333333333298
+  },
+  "111": {
+    "Compane_ID": 520026683,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.027619999999999898
+  },
+  "112": {
+    "Compane_ID": 520026683,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0152333333333333
+  },
+  "113": {
+    "Compane_ID": 520026683,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.011846666666666601
+  },
+  "114": {
+    "Compane_ID": 520026683,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00865
+  },
+  "115": {
+    "Compane_ID": 520040833,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.1104
+  },
+  "116": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.002
+  },
+  "117": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0066
+  },
+  "118": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0060999999999999995
+  },
+  "119": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0009666666666666659
+  },
+  "120": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00065
+  },
+  "121": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00005
+  },
+  "122": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0362
+  },
+  "123": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0223875
+  },
+  "124": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.07675
+  },
+  "125": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.00458571428571428
+  },
+  "126": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0311749999999999
+  },
+  "127": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.06475
+  },
+  "128": {
+    "Compane_ID": 520041146,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.024399999999999998
+  },
+  "129": {
+    "Compane_ID": 513901371,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.00425
+  },
+  "130": {
+    "Compane_ID": 513901371,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.022559999999999997
+  },
+  "131": {
+    "Compane_ID": 520037540,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0732
+  },
+  "132": {
+    "Compane_ID": 520037540,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.10414999999999999
+  },
+  "133": {
+    "Compane_ID": 520037540,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.09135
+  },
+  "134": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00446666666666666
+  },
+  "135": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00396666666666666
+  },
+  "136": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00036666666666666597
+  },
+  "137": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.118433333333333
+  },
+  "138": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0860666666666666
+  },
+  "139": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.004
+  },
+  "140": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0432333333333333
+  },
+  "141": {
+    "Compane_ID": 510560188,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0570333333333333
+  },
+  "142": {
+    "Compane_ID": 520037607,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.056100000000000004
+  },
+  "143": {
+    "Compane_ID": 520033473,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00396666666666666
+  },
+  "144": {
+    "Compane_ID": 520033473,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0629666666666666
+  },
+  "145": {
+    "Compane_ID": 520033473,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0934666666666666
+  },
+  "146": {
+    "Compane_ID": 520033473,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.06399999999999989
+  },
+  "147": {
+    "Compane_ID": 520034760,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0015
+  },
+  "148": {
+    "Compane_ID": 520034760,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0635
+  },
+  "149": {
+    "Compane_ID": 520034760,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0692
+  },
+  "150": {
+    "Compane_ID": 520034760,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0601
+  },
+  "151": {
+    "Compane_ID": 520030859,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0003
+  },
+  "152": {
+    "Compane_ID": 520030859,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.02875
+  },
+  "153": {
+    "Compane_ID": 520030859,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.08539999999999999
+  },
+  "154": {
+    "Compane_ID": 520031345,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0212
+  },
+  "155": {
+    "Compane_ID": 513821504,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.050499999999999996
+  },
+  "156": {
+    "Compane_ID": 520037458,
+    "Manager_ID": 520023185,
+    "Rate_Of_Holding": 0.07150000000000001
+  },
+  "157": {
+    "Compane_ID": 520037458,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0174
+  },
+  "158": {
+    "Compane_ID": 510007800,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0663
+  },
+  "159": {
+    "Compane_ID": 510959596,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.1244
+  },
+  "160": {
+    "Compane_ID": 510959596,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0808
+  },
+  "161": {
+    "Compane_ID": 520036617,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0001
+  },
+  "162": {
+    "Compane_ID": 520036617,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.057699999999999994
+  },
+  "163": {
+    "Compane_ID": 520036617,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.027099999999999902
+  },
+  "164": {
+    "Compane_ID": 520036617,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00745
+  },
+  "165": {
+    "Compane_ID": 520036617,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.05373333333333331
+  },
+  "166": {
+    "Compane_ID": 512671371,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.12619999999999998
+  },
+  "167": {
+    "Compane_ID": 520034562,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0325
+  },
+  "168": {
+    "Compane_ID": 520034562,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0542
+  },
+  "169": {
+    "Compane_ID": 520034562,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0709
+  },
+  "170": {
+    "Compane_ID": 520018649,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0021
+  },
+  "171": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000428571428571428
+  },
+  "172": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00047
+  },
+  "173": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00055
+  },
+  "174": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00007142857142857141
+  },
+  "175": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.04675
+  },
+  "176": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0074199999999999995
+  },
+  "177": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0113777777777777
+  },
+  "178": {
+    "Compane_ID": 520007030,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.01172
+  },
+  "179": {
+    "Compane_ID": 520000118,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0017000000000000001
+  },
+  "180": {
+    "Compane_ID": 520000118,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0018
+  },
+  "181": {
+    "Compane_ID": 520000118,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00015
+  },
+  "182": {
+    "Compane_ID": 520000118,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0473
+  },
+  "183": {
+    "Compane_ID": 520000118,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.032549999999999996
+  },
+  "184": {
+    "Compane_ID": 520000118,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.058899999999999994
+  },
+  "185": {
+    "Compane_ID": 520018078,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0000956521739130434
+  },
+  "186": {
+    "Compane_ID": 520018078,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.000145454545454545
+  },
+  "187": {
+    "Compane_ID": 520018078,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0000176470588235294
+  },
+  "188": {
+    "Compane_ID": 520018078,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.02475
+  },
+  "189": {
+    "Compane_ID": 520018078,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0025037037037037003
+  },
+  "190": {
+    "Compane_ID": 520018078,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00306363636363636
+  },
+  "191": {
+    "Compane_ID": 34250659,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0458
+  },
+  "192": {
+    "Compane_ID": 34250659,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.03795
+  },
+  "193": {
+    "Compane_ID": 520038647,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.14029999999999998
+  },
+  "194": {
+    "Compane_ID": 520038647,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0929
+  },
+  "195": {
+    "Compane_ID": 520038647,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0929
+  },
+  "196": {
+    "Compane_ID": 511786378,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.05375
+  },
+  "197": {
+    "Compane_ID": 511786378,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0766
+  },
+  "198": {
+    "Compane_ID": 513579482,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.012166666666666598
+  },
+  "199": {
+    "Compane_ID": 513579482,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0965
+  },
+  "200": {
+    "Compane_ID": 520040346,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0203
+  },
+  "201": {
+    "Compane_ID": 514720374,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0145666666666666
+  },
+  "202": {
+    "Compane_ID": 514720374,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.08353333333333329
+  },
+  "203": {
+    "Compane_ID": 514720374,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0430333333333333
+  },
+  "204": {
+    "Compane_ID": 510095987,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0753
+  },
+  "205": {
+    "Compane_ID": 510095987,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.12795
+  },
+  "206": {
+    "Compane_ID": 512821216,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.050499999999999996
+  },
+  "207": {
+    "Compane_ID": 512821216,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0455
+  },
+  "208": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520034356,
+    "Rate_Of_Holding": 0.00045
+  },
+  "209": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.004
+  },
+  "210": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0115
+  },
+  "211": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0959499999999999
+  },
+  "212": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0663
+  },
+  "213": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0626
+  },
+  "214": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0037
+  },
+  "215": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0641
+  },
+  "216": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520027251,
+    "Rate_Of_Holding": 0.045599999999999995
+  },
+  "217": {
+    "Compane_ID": 515846558,
+    "Manager_ID": 520028390,
+    "Rate_Of_Holding": 0.0174
+  },
+  "218": {
+    "Compane_ID": 513029975,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0791
+  },
+  "219": {
+    "Compane_ID": 513029975,
+    "Manager_ID": 513765347,
+    "Rate_Of_Holding": 0.0974
+  },
+  "220": {
+    "Compane_ID": 520033234,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0006
+  },
+  "221": {
+    "Compane_ID": 520033234,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.1264
+  },
+  "222": {
+    "Compane_ID": 520039314,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0285
+  },
+  "223": {
+    "Compane_ID": 513342444,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0025
+  },
+  "224": {
+    "Compane_ID": 513342444,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.0852
+  },
+  "225": {
+    "Compane_ID": 513342444,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0933
+  },
+  "226": {
+    "Compane_ID": 520039934,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.078
+  },
+  "227": {
+    "Compane_ID": 520039934,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.05395
+  },
+  "228": {
+    "Compane_ID": 520039934,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0018
+  },
+  "229": {
+    "Compane_ID": 512416991,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.11130000000000001
+  },
+  "230": {
+    "Compane_ID": 512416991,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.09305
+  },
+  "231": {
+    "Compane_ID": 520043878,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0547
+  },
+  "232": {
+    "Compane_ID": 520043878,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0506
+  },
+  "233": {
+    "Compane_ID": 520043878,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0016
+  },
+  "234": {
+    "Compane_ID": 512112806,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.029575
+  },
+  "235": {
+    "Compane_ID": 520033291,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0001
+  },
+  "236": {
+    "Compane_ID": 520033291,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.11775000000000001
+  },
+  "237": {
+    "Compane_ID": 520033291,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.05745
+  },
+  "238": {
+    "Compane_ID": 550013098,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0006
+  },
+  "239": {
+    "Compane_ID": 550013098,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0547
+  },
+  "240": {
+    "Compane_ID": 514837111,
+    "Manager_ID": 520023185,
+    "Rate_Of_Holding": 0.0388
+  },
+  "241": {
+    "Compane_ID": 514837111,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.1324
+  },
+  "242": {
+    "Compane_ID": 514837111,
+    "Manager_ID": 520023185,
+    "Rate_Of_Holding": 0.084025
+  },
+  "243": {
+    "Compane_ID": 514837111,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0378
+  },
+  "244": {
+    "Compane_ID": 514837111,
+    "Manager_ID": 520027251,
+    "Rate_Of_Holding": 0.1373
+  },
+  "245": {
+    "Compane_ID": 514837111,
+    "Manager_ID": 520028390,
+    "Rate_Of_Holding": 0.0529
+  },
+  "246": {
+    "Compane_ID": 520025602,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0003
+  },
+  "247": {
+    "Compane_ID": 520025602,
+    "Manager_ID": 520023185,
+    "Rate_Of_Holding": 0.00876
+  },
+  "248": {
+    "Compane_ID": 520025602,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.03165
+  },
+  "249": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.01505
+  },
+  "250": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.004699999999999999
+  },
+  "251": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0014000000000000002
+  },
+  "252": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.12844999999999898
+  },
+  "253": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0467
+  },
+  "254": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.045250000000000005
+  },
+  "255": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.06634999999999999
+  },
+  "256": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0195
+  },
+  "257": {
+    "Compane_ID": 520037565,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0698
+  },
+  "258": {
+    "Compane_ID": 513627901,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0765
+  },
+  "259": {
+    "Compane_ID": 520029083,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0031
+  },
+  "260": {
+    "Compane_ID": 520029083,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0478
+  },
+  "261": {
+    "Compane_ID": 520029083,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0495
+  },
+  "262": {
+    "Compane_ID": 512466723,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.02465
+  },
+  "263": {
+    "Compane_ID": 512466723,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.12179999999999999
+  },
+  "264": {
+    "Compane_ID": 512466723,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0875499999999999
+  },
+  "265": {
+    "Compane_ID": 512466723,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.04045
+  },
+  "266": {
+    "Compane_ID": 520028010,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0007000000000000001
+  },
+  "267": {
+    "Compane_ID": 520028010,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00446666666666666
+  },
+  "268": {
+    "Compane_ID": 520028010,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0425666666666666
+  },
+  "269": {
+    "Compane_ID": 520028010,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0678333333333333
+  },
+  "270": {
+    "Compane_ID": 520028010,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0523333333333333
+  },
+  "271": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00804444444444444
+  },
+  "272": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0114222222222222
+  },
+  "273": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.00535555555555555
+  },
+  "274": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000288888888888888
+  },
+  "275": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.129711111111111
+  },
+  "276": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0965
+  },
+  "277": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.09525555555555551
+  },
+  "278": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00244444444444444
+  },
+  "279": {
+    "Compane_ID": 520041575,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0434714285714285
+  },
+  "280": {
+    "Compane_ID": 513389270,
+    "Manager_ID": 520042177,
+    "Rate_Of_Holding": 0.0767
+  },
+  "281": {
+    "Compane_ID": 513389270,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0031
+  },
+  "282": {
+    "Compane_ID": 513389270,
+    "Manager_ID": 520042177,
+    "Rate_Of_Holding": 0.11779999999999999
+  },
+  "283": {
+    "Compane_ID": 513389270,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.09475
+  },
+  "284": {
+    "Compane_ID": 520017450,
+    "Manager_ID": 520023185,
+    "Rate_Of_Holding": 0.0033
+  },
+  "285": {
+    "Compane_ID": 520034695,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0055000000000000005
+  },
+  "286": {
+    "Compane_ID": 520034695,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0001
+  },
+  "287": {
+    "Compane_ID": 520034695,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.045149999999999996
+  },
+  "288": {
+    "Compane_ID": 520034695,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.07095
+  },
+  "289": {
+    "Compane_ID": 520034695,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0823
+  },
+  "290": {
+    "Compane_ID": 520034695,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0021
+  },
+  "291": {
+    "Compane_ID": 520038688,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0245
+  },
+  "292": {
+    "Compane_ID": 520038910,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.004725
+  },
+  "293": {
+    "Compane_ID": 520038910,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.08410000000000001
+  },
+  "294": {
+    "Compane_ID": 520038910,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.047850000000000004
+  },
+  "295": {
+    "Compane_ID": 520038225,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.014499999999999999
+  },
+  "296": {
+    "Compane_ID": 520038225,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.1434
+  },
+  "297": {
+    "Compane_ID": 514068980,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0285
+  },
+  "298": {
+    "Compane_ID": 514068980,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0994333333333333
+  },
+  "299": {
+    "Compane_ID": 514068980,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.03766
+  },
+  "300": {
+    "Compane_ID": 512096793,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0028499999999999997
+  },
+  "301": {
+    "Compane_ID": 512096793,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.04825
+  },
+  "302": {
+    "Compane_ID": 512096793,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.015300000000000001
+  },
+  "303": {
+    "Compane_ID": 512096793,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0469999999999999
+  },
+  "304": {
+    "Compane_ID": 512096793,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.10685
+  },
+  "305": {
+    "Compane_ID": 520034208,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.01
+  },
+  "306": {
+    "Compane_ID": 520034208,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0808
+  },
+  "307": {
+    "Compane_ID": 520034208,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.07730000000000001
+  },
+  "308": {
+    "Compane_ID": 520025438,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0417
+  },
+  "309": {
+    "Compane_ID": 520001736,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00127142857142857
+  },
+  "310": {
+    "Compane_ID": 520001736,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.00064
+  },
+  "311": {
+    "Compane_ID": 520001736,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0265166666666666
+  },
+  "312": {
+    "Compane_ID": 520001736,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0424857142857142
+  },
+  "313": {
+    "Compane_ID": 520001736,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.043274999999999994
+  },
+  "314": {
+    "Compane_ID": 520001736,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00075
+  },
+  "315": {
+    "Compane_ID": 520020116,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0028199999999999996
+  },
+  "316": {
+    "Compane_ID": 520020116,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00869999999999999
+  },
+  "317": {
+    "Compane_ID": 520020116,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0764599999999999
+  },
+  "318": {
+    "Compane_ID": 520020116,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.08023999999999999
+  },
+  "319": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000466666666666666
+  },
+  "320": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0005149999999999999
+  },
+  "321": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0004
+  },
+  "322": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000042857142857142795
+  },
+  "323": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.007984999999999999
+  },
+  "324": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00674375
+  },
+  "325": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.00525714285714285
+  },
+  "326": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0999
+  },
+  "327": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0050687499999999995
+  },
+  "328": {
+    "Compane_ID": 520039942,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0038
+  },
+  "329": {
+    "Compane_ID": 520039942,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0787
+  },
+  "330": {
+    "Compane_ID": 520039942,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.1007
+  },
+  "331": {
+    "Compane_ID": 520039942,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.045
+  },
+  "332": {
+    "Compane_ID": 520034216,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0687
+  },
+  "333": {
+    "Compane_ID": 512398017,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0713
+  },
+  "334": {
+    "Compane_ID": 520041187,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0115
+  },
+  "335": {
+    "Compane_ID": 520041187,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.11985
+  },
+  "336": {
+    "Compane_ID": 520039710,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0258333333333333
+  },
+  "337": {
+    "Compane_ID": 520039710,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.11539999999999999
+  },
+  "338": {
+    "Compane_ID": 520039710,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0630333333333333
+  },
+  "339": {
+    "Compane_ID": 520038100,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.1288
+  },
+  "340": {
+    "Compane_ID": 520038100,
+    "Manager_ID": 513765347,
+    "Rate_Of_Holding": 0.09720000000000001
+  },
+  "341": {
+    "Compane_ID": 510852643,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.021400000000000002
+  },
+  "342": {
+    "Compane_ID": 510852643,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0659
+  },
+  "343": {
+    "Compane_ID": 510852643,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0025
+  },
+  "344": {
+    "Compane_ID": 510852643,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0557
+  },
+  "345": {
+    "Compane_ID": 511399388,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0463333333333333
+  },
+  "346": {
+    "Compane_ID": 510706153,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0005
+  },
+  "347": {
+    "Compane_ID": 510706153,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.009399999999999999
+  },
+  "348": {
+    "Compane_ID": 510706153,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0004
+  },
+  "349": {
+    "Compane_ID": 510706153,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.022799999999999997
+  },
+  "350": {
+    "Compane_ID": 510706153,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0311333333333333
+  },
+  "351": {
+    "Compane_ID": 510706153,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0326
+  },
+  "352": {
+    "Compane_ID": 520039298,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00155
+  },
+  "353": {
+    "Compane_ID": 520039298,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0286
+  },
+  "354": {
+    "Compane_ID": 520039298,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.1025
+  },
+  "355": {
+    "Compane_ID": 550010003,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0025
+  },
+  "356": {
+    "Compane_ID": 550010003,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.003075
+  },
+  "357": {
+    "Compane_ID": 550010003,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00005
+  },
+  "358": {
+    "Compane_ID": 550010003,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.079375
+  },
+  "359": {
+    "Compane_ID": 550010003,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0492
+  },
+  "360": {
+    "Compane_ID": 520017807,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0004
+  },
+  "361": {
+    "Compane_ID": 520017807,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0765
+  },
+  "362": {
+    "Compane_ID": 520032970,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.006999999999999999
+  },
+  "363": {
+    "Compane_ID": 520032970,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0217
+  },
+  "364": {
+    "Compane_ID": 520032970,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0908
+  },
+  "365": {
+    "Compane_ID": 520032970,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.07980000000000001
+  },
+  "366": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0040999999999999995
+  },
+  "367": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0007599999999999999
+  },
+  "368": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00055
+  },
+  "369": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000075
+  },
+  "370": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0904
+  },
+  "371": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0141333333333333
+  },
+  "372": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.00846
+  },
+  "373": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0922
+  },
+  "374": {
+    "Compane_ID": 520017070,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.02255
+  },
+  "375": {
+    "Compane_ID": 520036120,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0017499999999999998
+  },
+  "376": {
+    "Compane_ID": 520036120,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00015
+  },
+  "377": {
+    "Compane_ID": 520036120,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.036699999999999997
+  },
+  "378": {
+    "Compane_ID": 511898835,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0594
+  },
+  "379": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0048
+  },
+  "380": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.0641
+  },
+  "381": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.08405
+  },
+  "382": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.12085000000000001
+  },
+  "383": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0317
+  },
+  "384": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.1664
+  },
+  "385": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0864
+  },
+  "386": {
+    "Compane_ID": 515818524,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.09885
+  },
+  "387": {
+    "Compane_ID": 520040700,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0138
+  },
+  "388": {
+    "Compane_ID": 520040700,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.07695
+  },
+  "389": {
+    "Compane_ID": 520038787,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0055000000000000005
+  },
+  "390": {
+    "Compane_ID": 520038787,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.095
+  },
+  "391": {
+    "Compane_ID": 520038787,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0542
+  },
+  "392": {
+    "Compane_ID": 520000779,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.01915
+  },
+  "393": {
+    "Compane_ID": 520043381,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.1018
+  },
+  "394": {
+    "Compane_ID": 520043381,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.10529999999999999
+  },
+  "395": {
+    "Compane_ID": 511134298,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.10235
+  },
+  "396": {
+    "Compane_ID": 511134298,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0986
+  },
+  "397": {
+    "Compane_ID": 520037664,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0012
+  },
+  "398": {
+    "Compane_ID": 510512056,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0176
+  },
+  "399": {
+    "Compane_ID": 510512056,
+    "Manager_ID": 512227265,
+    "Rate_Of_Holding": 0.0507
+  },
+  "400": {
+    "Compane_ID": 510512056,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.03975
+  },
+  "401": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.01375
+  },
+  "402": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.01195
+  },
+  "403": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0001
+  },
+  "404": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.09685
+  },
+  "405": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0395
+  },
+  "406": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.09805
+  },
+  "407": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0544999999999999
+  },
+  "408": {
+    "Compane_ID": 520034125,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00185
+  },
+  "409": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000127272727272727
+  },
+  "410": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00067
+  },
+  "411": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00035999999999999997
+  },
+  "412": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.000316666666666666
+  },
+  "413": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000042857142857142795
+  },
+  "414": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00565
+  },
+  "415": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0067625
+  },
+  "416": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00617777777777777
+  },
+  "417": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.00484285714285714
+  },
+  "418": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.10550000000000001
+  },
+  "419": {
+    "Compane_ID": 520024126,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.005350000000000001
+  },
+  "420": {
+    "Compane_ID": 512719485,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0015
+  },
+  "421": {
+    "Compane_ID": 512719485,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0007000000000000001
+  },
+  "422": {
+    "Compane_ID": 512719485,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00005
+  },
+  "423": {
+    "Compane_ID": 512719485,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.03665
+  },
+  "424": {
+    "Compane_ID": 512719485,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.04190000000000001
+  },
+  "425": {
+    "Compane_ID": 512719485,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0932
+  },
+  "426": {
+    "Compane_ID": 513257873,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0676
+  },
+  "427": {
+    "Compane_ID": 513257873,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.12685000000000002
+  },
+  "428": {
+    "Compane_ID": 513257873,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.07440000000000001
+  },
+  "429": {
+    "Compane_ID": 513257873,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0843
+  },
+  "430": {
+    "Compane_ID": 515434074,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00306666666666666
+  },
+  "431": {
+    "Compane_ID": 515434074,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.06385
+  },
+  "432": {
+    "Compane_ID": 515434074,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0655333333333333
+  },
+  "433": {
+    "Compane_ID": 515434074,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0951
+  },
+  "434": {
+    "Compane_ID": 520036195,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0037
+  },
+  "435": {
+    "Compane_ID": 520036195,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.08449999999999999
+  },
+  "436": {
+    "Compane_ID": 520036195,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.1001
+  },
+  "437": {
+    "Compane_ID": 520036195,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0528
+  },
+  "438": {
+    "Compane_ID": 123830,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0892
+  },
+  "439": {
+    "Compane_ID": 520018482,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0014000000000000002
+  },
+  "440": {
+    "Compane_ID": 520018482,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.001
+  },
+  "441": {
+    "Compane_ID": 520018482,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0003
+  },
+  "442": {
+    "Compane_ID": 520039413,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.07955
+  },
+  "443": {
+    "Compane_ID": 511527202,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0018
+  },
+  "444": {
+    "Compane_ID": 511527202,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0883
+  },
+  "445": {
+    "Compane_ID": 511527202,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.04115
+  },
+  "446": {
+    "Compane_ID": 510930787,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0927111111111111
+  },
+  "447": {
+    "Compane_ID": "HE153010",
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00485
+  },
+  "448": {
+    "Compane_ID": "HE153010",
+    "Manager_ID": 520041963,
+    "Rate_Of_Holding": 0.0150666666666666
+  },
+  "449": {
+    "Compane_ID": "HE153010",
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.034033333333333304
+  },
+  "450": {
+    "Compane_ID": "HE153010",
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0883
+  },
+  "451": {
+    "Compane_ID": 511491839,
+    "Manager_ID": 512227265,
+    "Rate_Of_Holding": 0.0358
+  },
+  "452": {
+    "Compane_ID": 511491839,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.004699999999999999
+  },
+  "453": {
+    "Compane_ID": 520037789,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.00015
+  },
+  "454": {
+    "Compane_ID": 520037789,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0053578947368421006
+  },
+  "455": {
+    "Compane_ID": 520037789,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.09585
+  },
+  "456": {
+    "Compane_ID": 520034620,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0035499999999999998
+  },
+  "457": {
+    "Compane_ID": 520034620,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00045
+  },
+  "458": {
+    "Compane_ID": 520034620,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.06365
+  },
+  "459": {
+    "Compane_ID": 520041872,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.1422
+  },
+  "460": {
+    "Compane_ID": 513660373,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0802
+  },
+  "461": {
+    "Compane_ID": 513660373,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0747
+  },
+  "462": {
+    "Compane_ID": 513660373,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.061
+  },
+  "463": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00145
+  },
+  "464": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.003
+  },
+  "465": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.000625
+  },
+  "466": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.05779999999999989
+  },
+  "467": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0704749999999999
+  },
+  "468": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.05985
+  },
+  "469": {
+    "Compane_ID": 520043480,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0901749999999999
+  },
+  "470": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00295
+  },
+  "471": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0001
+  },
+  "472": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.08324999999999999
+  },
+  "473": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.160099999999999
+  },
+  "474": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0716
+  },
+  "475": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.09095
+  },
+  "476": {
+    "Compane_ID": 515327120,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0576
+  },
+  "477": {
+    "Compane_ID": 520034505,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0057666666666666595
+  },
+  "478": {
+    "Compane_ID": 520034505,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0034000000000000002
+  },
+  "479": {
+    "Compane_ID": 520034505,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0003
+  },
+  "480": {
+    "Compane_ID": 520034505,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.09233333333333331
+  },
+  "481": {
+    "Compane_ID": 520034505,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0640666666666666
+  },
+  "482": {
+    "Compane_ID": 511301665,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00625
+  },
+  "483": {
+    "Compane_ID": 511301665,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.03565
+  },
+  "484": {
+    "Compane_ID": 511301665,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0123
+  },
+  "485": {
+    "Compane_ID": 512665373,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0599
+  },
+  "486": {
+    "Compane_ID": 520037284,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.046349999999999995
+  },
+  "487": {
+    "Compane_ID": 520033424,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.134799999999999
+  },
+  "488": {
+    "Compane_ID": 512288713,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0066
+  },
+  "489": {
+    "Compane_ID": 512288713,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.04675
+  },
+  "490": {
+    "Compane_ID": 550263107,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0015
+  },
+  "491": {
+    "Compane_ID": 550263107,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.018000000000000002
+  },
+  "492": {
+    "Compane_ID": 550263107,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.018500000000000003
+  },
+  "493": {
+    "Compane_ID": 550263107,
+    "Manager_ID": 520027251,
+    "Rate_Of_Holding": 0.0248
+  },
+  "494": {
+    "Compane_ID": 550263107,
+    "Manager_ID": 520028390,
+    "Rate_Of_Holding": 0.00972499999999999
+  },
+  "495": {
+    "Compane_ID": 510475312,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.01355
+  },
+  "496": {
+    "Compane_ID": 510475312,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0646
+  },
+  "497": {
+    "Compane_ID": 510475312,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.12710000000000002
+  },
+  "498": {
+    "Compane_ID": 510475312,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0795
+  },
+  "499": {
+    "Compane_ID": 510475312,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0146
+  },
+  "500": {
+    "Compane_ID": 44528798375,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.03635
+  },
+  "501": {
+    "Compane_ID": 520034109,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0019
+  },
+  "502": {
+    "Compane_ID": 520034109,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.042800000000000005
+  },
+  "503": {
+    "Compane_ID": 520034109,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0552
+  },
+  "504": {
+    "Compane_ID": 520034109,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.06309999999999999
+  },
+  "505": {
+    "Compane_ID": 520034109,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.051449999999999996
+  },
+  "506": {
+    "Compane_ID": 511725459,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.00505
+  },
+  "507": {
+    "Compane_ID": 511725459,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00559999999999999
+  },
+  "508": {
+    "Compane_ID": 511725459,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.014499999999999999
+  },
+  "509": {
+    "Compane_ID": 511725459,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.10550000000000001
+  },
+  "510": {
+    "Compane_ID": 511725459,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.052300000000000006
+  },
+  "511": {
+    "Compane_ID": 511725459,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0696
+  },
+  "512": {
+    "Compane_ID": 520018383,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.06645
+  },
+  "513": {
+    "Compane_ID": 520018383,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0048
+  },
+  "514": {
+    "Compane_ID": 520018383,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0003
+  },
+  "515": {
+    "Compane_ID": 520040940,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.027999999999999997
+  },
+  "516": {
+    "Compane_ID": 520040940,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.03905
+  },
+  "517": {
+    "Compane_ID": 520020942,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0665
+  },
+  "518": {
+    "Compane_ID": 520020942,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0765
+  },
+  "519": {
+    "Compane_ID": 520039074,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.010725
+  },
+  "520": {
+    "Compane_ID": 520041674,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0055000000000000005
+  },
+  "521": {
+    "Compane_ID": 520041674,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0375666666666666
+  },
+  "522": {
+    "Compane_ID": 520043720,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.09449999999999999
+  },
+  "523": {
+    "Compane_ID": 520043720,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.11474999999999999
+  },
+  "524": {
+    "Compane_ID": 520031808,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.021099999999999997
+  },
+  "525": {
+    "Compane_ID": 520031808,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0404
+  },
+  "526": {
+    "Compane_ID": 520031808,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0276
+  },
+  "527": {
+    "Compane_ID": 512882747,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.013274999999999999
+  },
+  "528": {
+    "Compane_ID": 512882747,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.037099999999999904
+  },
+  "529": {
+    "Compane_ID": 512882747,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0371
+  },
+  "530": {
+    "Compane_ID": 1522277,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0659
+  },
+  "531": {
+    "Compane_ID": 511416612,
+    "Manager_ID": 513765347,
+    "Rate_Of_Holding": 0.0195
+  },
+  "532": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0005
+  },
+  "533": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0033333333333333296
+  },
+  "534": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.012
+  },
+  "535": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.013175
+  },
+  "536": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.017
+  },
+  "537": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520027251,
+    "Rate_Of_Holding": 0.040999999999999995
+  },
+  "538": {
+    "Compane_ID": 513992529,
+    "Manager_ID": 520028390,
+    "Rate_Of_Holding": 0.016
+  },
+  "539": {
+    "Compane_ID": 1328683,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0109833333333333
+  },
+  "540": {
+    "Compane_ID": 1328683,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.028849999999999997
+  },
+  "541": {
+    "Compane_ID": 1328683,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.061900000000000004
+  },
+  "542": {
+    "Compane_ID": 520040205,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0555
+  },
+  "543": {
+    "Compane_ID": 520040205,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.002
+  },
+  "544": {
+    "Compane_ID": 520040205,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0363
+  },
+  "545": {
+    "Compane_ID": 513615286,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0366
+  },
+  "546": {
+    "Compane_ID": 520025198,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0059
+  },
+  "547": {
+    "Compane_ID": 520025198,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0015
+  },
+  "548": {
+    "Compane_ID": 520025198,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.030600000000000002
+  },
+  "549": {
+    "Compane_ID": 520025198,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0565499999999999
+  },
+  "550": {
+    "Compane_ID": 511819617,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.055
+  },
+  "551": {
+    "Compane_ID": 512157603,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.06555
+  },
+  "552": {
+    "Compane_ID": 512157603,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0004
+  },
+  "553": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0007000000000000001
+  },
+  "554": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0006555555555555551
+  },
+  "555": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.000466666666666666
+  },
+  "556": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.000544444444444444
+  },
+  "557": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.000588888888888888
+  },
+  "558": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0000777777777777777
+  },
+  "559": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.014159999999999999
+  },
+  "560": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0180799999999999
+  },
+  "561": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.01512
+  },
+  "562": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.018625
+  },
+  "563": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.00032
+  },
+  "564": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.016114285714285703
+  },
+  "565": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0206333333333333
+  },
+  "566": {
+    "Compane_ID": 510216054,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0110416666666666
+  },
+  "567": {
+    "Compane_ID": 550222764,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.1877
+  },
+  "568": {
+    "Compane_ID": 511888356,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0418
+  },
+  "569": {
+    "Compane_ID": 520038951,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.006999999999999999
+  },
+  "570": {
+    "Compane_ID": 520038951,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0904
+  },
+  "571": {
+    "Compane_ID": 520038951,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.09359999999999999
+  },
+  "572": {
+    "Compane_ID": 520038951,
+    "Manager_ID": 513834606,
+    "Rate_Of_Holding": 0.0031
+  },
+  "573": {
+    "Compane_ID": 520042912,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0062
+  },
+  "574": {
+    "Compane_ID": 520042912,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.055999999999999994
+  },
+  "575": {
+    "Compane_ID": 520042912,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.06765
+  },
+  "576": {
+    "Compane_ID": 520039843,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.063
+  },
+  "577": {
+    "Compane_ID": 520039843,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.054400000000000004
+  },
+  "578": {
+    "Compane_ID": 510712466,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.1069
+  },
+  "579": {
+    "Compane_ID": 520037797,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0273
+  },
+  "580": {
+    "Compane_ID": 520037797,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.13824999999999998
+  },
+  "581": {
+    "Compane_ID": 520037797,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.042300000000000004
+  },
+  "582": {
+    "Compane_ID": 520037797,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.03915
+  },
+  "583": {
+    "Compane_ID": 513226050,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0001
+  },
+  "584": {
+    "Compane_ID": 513226050,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.1245
+  },
+  "585": {
+    "Compane_ID": 513226050,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.062
+  },
+  "586": {
+    "Compane_ID": 513817817,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0447
+  },
+  "587": {
+    "Compane_ID": 512607888,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0602
+  },
+  "588": {
+    "Compane_ID": 512607888,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0529
+  },
+  "589": {
+    "Compane_ID": 512531203,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0028499999999999997
+  },
+  "590": {
+    "Compane_ID": 512531203,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0037
+  },
+  "591": {
+    "Compane_ID": 512531203,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0388666666666666
+  },
+  "592": {
+    "Compane_ID": 512531203,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0274333333333333
+  },
+  "593": {
+    "Compane_ID": 512531203,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.04025
+  },
+  "594": {
+    "Compane_ID": 520039090,
+    "Manager_ID": 513862581,
+    "Rate_Of_Holding": 0.0063
+  },
+  "595": {
+    "Compane_ID": 520039090,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0575
+  },
+  "596": {
+    "Compane_ID": 513432765,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0176
+  },
+  "597": {
+    "Compane_ID": 513432765,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0582
+  },
+  "598": {
+    "Compane_ID": 513432765,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.07400000000000001
+  },
+  "599": {
+    "Compane_ID": 520036070,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.183033333333333
+  },
+  "600": {
+    "Compane_ID": 510381601,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00116666666666666
+  },
+  "601": {
+    "Compane_ID": 510381601,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.000666666666666666
+  },
+  "602": {
+    "Compane_ID": 510381601,
+    "Manager_ID": 520023185,
+    "Rate_Of_Holding": 0.0503666666666666
+  },
+  "603": {
+    "Compane_ID": 510381601,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0824
+  },
+  "604": {
+    "Compane_ID": 520037250,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0965
+  },
+  "605": {
+    "Compane_ID": 520025016,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0665
+  },
+  "606": {
+    "Compane_ID": 520025016,
+    "Manager_ID": 550272587,
+    "Rate_Of_Holding": 0.0665
+  },
+  "607": {
+    "Compane_ID": 520025016,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.042800000000000005
+  },
+  "608": {
+    "Compane_ID": 520025016,
+    "Manager_ID": 513765347,
+    "Rate_Of_Holding": 0.0291
+  },
+  "609": {
+    "Compane_ID": 510289564,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.126366666666666
+  },
+  "610": {
+    "Compane_ID": 510289564,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0553
+  },
+  "611": {
+    "Compane_ID": 520033309,
+    "Manager_ID": 514956465,
+    "Rate_Of_Holding": 0.0008333333333333331
+  },
+  "612": {
+    "Compane_ID": 520038530,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0059499999999999996
+  },
+  "613": {
+    "Compane_ID": 520038530,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0521
+  },
+  "614": {
+    "Compane_ID": 520038530,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0158
+  },
+  "615": {
+    "Compane_ID": 520038530,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.06255
+  },
+  "616": {
+    "Compane_ID": 513605519,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.032799999999999996
+  },
+  "617": {
+    "Compane_ID": 520040007,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0721
+  },
+  "618": {
+    "Compane_ID": 520037425,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00365
+  },
+  "619": {
+    "Compane_ID": 520037425,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.08109999999999999
+  },
+  "620": {
+    "Compane_ID": 520037425,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0756499999999999
+  },
+  "621": {
+    "Compane_ID": 520037425,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.0291
+  },
+  "622": {
+    "Compane_ID": 520041161,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0251666666666666
+  },
+  "623": {
+    "Compane_ID": 520041161,
+    "Manager_ID": 512227265,
+    "Rate_Of_Holding": 0.0300875
+  },
+  "624": {
+    "Compane_ID": 520041161,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.11539999999999999
+  },
+  "625": {
+    "Compane_ID": 520041161,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.1161
+  },
+  "626": {
+    "Compane_ID": 520033713,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0054
+  },
+  "627": {
+    "Compane_ID": 520033713,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.08765
+  },
+  "628": {
+    "Compane_ID": 520033713,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0421
+  },
+  "629": {
+    "Compane_ID": 515158665,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.03635
+  },
+  "630": {
+    "Compane_ID": 515158665,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.11985
+  },
+  "631": {
+    "Compane_ID": 514192558,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.0440333333333333
+  },
+  "632": {
+    "Compane_ID": 520036997,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.118649999999999
+  },
+  "633": {
+    "Compane_ID": 520036997,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.08234999999999999
+  },
+  "634": {
+    "Compane_ID": 520036997,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0977
+  },
+  "635": {
+    "Compane_ID": 511896540,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.16204999999999997
+  },
+  "636": {
+    "Compane_ID": 520032442,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.057
+  },
+  "637": {
+    "Compane_ID": 512950320,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.10905
+  },
+  "638": {
+    "Compane_ID": 520041005,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.157066666666666
+  },
+  "639": {
+    "Compane_ID": 520041005,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.08903333333333331
+  },
+  "640": {
+    "Compane_ID": 520041005,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0019
+  },
+  "641": {
+    "Compane_ID": 520041005,
+    "Manager_ID": 513767079,
+    "Rate_Of_Holding": 0.0538
+  },
+  "642": {
+    "Compane_ID": 520001546,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0014000000000000002
+  },
+  "643": {
+    "Compane_ID": 520001546,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0689
+  },
+  "644": {
+    "Compane_ID": 520001546,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0687
+  },
+  "645": {
+    "Compane_ID": 520001546,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.047400000000000005
+  },
+  "646": {
+    "Compane_ID": 520001546,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.043
+  },
+  "647": {
+    "Compane_ID": 520001546,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0623
+  },
+  "648": {
+    "Compane_ID": 514065283,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0005
+  },
+  "649": {
+    "Compane_ID": 514065283,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.051100000000000007
+  },
+  "650": {
+    "Compane_ID": 520038183,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.07
+  },
+  "651": {
+    "Compane_ID": 520040148,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.057999999999999996
+  },
+  "652": {
+    "Compane_ID": 520040148,
+    "Manager_ID": 513167346,
+    "Rate_Of_Holding": 0.0683
+  },
+  "653": {
+    "Compane_ID": 513765859,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.00095
+  },
+  "654": {
+    "Compane_ID": 513765859,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0416
+  },
+  "655": {
+    "Compane_ID": 513765859,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.1472
+  },
+  "656": {
+    "Compane_ID": 513506329,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0022
+  },
+  "657": {
+    "Compane_ID": 513506329,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0975
+  },
+  "658": {
+    "Compane_ID": 513506329,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.01955
+  },
+  "659": {
+    "Compane_ID": 513506329,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.015625
+  },
+  "660": {
+    "Compane_ID": 513506329,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0758
+  },
+  "661": {
+    "Compane_ID": 513821488,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0576
+  },
+  "662": {
+    "Compane_ID": 513821488,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0523666666666666
+  },
+  "663": {
+    "Compane_ID": 513821488,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0632999999999999
+  },
+  "664": {
+    "Compane_ID": 513821488,
+    "Manager_ID": 513765347,
+    "Rate_Of_Holding": 0.053200000000000004
+  },
+  "665": {
+    "Compane_ID": 512776964,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.11699999999999999
+  },
+  "666": {
+    "Compane_ID": 512776964,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.049
+  },
+  "667": {
+    "Compane_ID": 520029505,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0180333333333333
+  },
+  "668": {
+    "Compane_ID": 520029505,
+    "Manager_ID": 513765347,
+    "Rate_Of_Holding": 0.061
+  },
+  "669": {
+    "Compane_ID": 550012777,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0017499999999999998
+  },
+  "670": {
+    "Compane_ID": 550012777,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0013
+  },
+  "671": {
+    "Compane_ID": 550012777,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.051500000000000004
+  },
+  "672": {
+    "Compane_ID": 550012777,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00035000000000000005
+  },
+  "673": {
+    "Compane_ID": 550012777,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0495
+  },
+  "674": {
+    "Compane_ID": 550012777,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.1059
+  },
+  "675": {
+    "Compane_ID": 513770669,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00245
+  },
+  "676": {
+    "Compane_ID": 513770669,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0002
+  },
+  "677": {
+    "Compane_ID": 513770669,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0501
+  },
+  "678": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0032
+  },
+  "679": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0033
+  },
+  "680": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.00065
+  },
+  "681": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0012
+  },
+  "682": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0602
+  },
+  "683": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 513173393,
+    "Rate_Of_Holding": 0.08650000000000001
+  },
+  "684": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.06425
+  },
+  "685": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0554
+  },
+  "686": {
+    "Compane_ID": 520022732,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.061950000000000005
+  },
+  "687": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00035999999999999997
+  },
+  "688": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0009875
+  },
+  "689": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.000625
+  },
+  "690": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0005666666666666661
+  },
+  "691": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0000571428571428571
+  },
+  "692": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.00914
+  },
+  "693": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.009312499999999991
+  },
+  "694": {
+    "Compane_ID": 520036104,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0208
+  },
+  "695": {
+    "Compane_ID": 513507574,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.006274999999999999
+  },
+  "696": {
+    "Compane_ID": 513507574,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.116675
+  },
+  "697": {
+    "Compane_ID": 513507574,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.0206666666666666
+  },
+  "698": {
+    "Compane_ID": 513507574,
+    "Manager_ID": 520043795,
+    "Rate_Of_Holding": 0.046950000000000006
+  },
+  "699": {
+    "Compane_ID": 514892801,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.001
+  },
+  "700": {
+    "Compane_ID": 514892801,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0171166666666666
+  },
+  "701": {
+    "Compane_ID": 514892801,
+    "Manager_ID": 520036120,
+    "Rate_Of_Holding": 0.0198666666666666
+  },
+  "702": {
+    "Compane_ID": 520034364,
+    "Manager_ID": 513611509,
+    "Rate_Of_Holding": 0.09925
+  },
+  "703": {
+    "Compane_ID": 511870891,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0039000000000000003
+  },
+  "704": {
+    "Compane_ID": 511870891,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0642
+  },
+  "705": {
+    "Compane_ID": 520036732,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.0004
+  },
+  "706": {
+    "Compane_ID": 520036732,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.013300000000000001
+  },
+  "707": {
+    "Compane_ID": 520036732,
+    "Manager_ID": 520017450,
+    "Rate_Of_Holding": 0.048600000000000004
+  },
+  "708": {
+    "Compane_ID": 520036732,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.03705
+  },
+  "709": {
+    "Compane_ID": 520008483,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.08224999999999999
+  },
+  "710": {
+    "Compane_ID": 520008483,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0886
+  },
+  "711": {
+    "Compane_ID": 520008483,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0758
+  },
+  "712": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0000333333333333333
+  },
+  "713": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.00385
+  },
+  "714": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0005666666666666661
+  },
+  "715": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 520029984,
+    "Rate_Of_Holding": 0.0279666666666666
+  },
+  "716": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 511446551,
+    "Rate_Of_Holding": 0.0373999999999999
+  },
+  "717": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 520033986,
+    "Rate_Of_Holding": 0.0226
+  },
+  "718": {
+    "Compane_ID": 515334662,
+    "Manager_ID": 520007469,
+    "Rate_Of_Holding": 0.0464333333333333
+  }
+}
