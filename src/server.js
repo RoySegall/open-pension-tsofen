@@ -7,21 +7,13 @@ const querystring = require('querystring');
 const port = process.env.PORT || 3000;
 
 const apis = {
-  dimCompanies: {
-    plural: 'dimCompanies',
-    single: 'dimCompany',
-  },
-  dimManagers: {
-    plural: 'dimManagers',
-    single: 'dimManager',
-  },
   dimProxies: {
     plural: 'dimProxies',
     single: 'dimProxy',
   },
-  InterestParties: {
-    plural: 'InterestParties',
-    single: 'InterestParty',
+  Interest: {
+    plural: 'Interests',
+    single: 'Interest',
   },
   proxies: {
     plural: 'proxies',
