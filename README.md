@@ -67,4 +67,41 @@ Description:
 
 ## Advanced queries
 
+### Filtering
+In addition to access an entity by a given ID you can filter items by using the query parameters. For example, I want to 
+filter interests items by the Security ID. The address will look like `api/interests?filter[Security_ID]=1084698`. You 
+can more filters: `api/interests?filter[Security_ID]=1084698&filter[Chanel]=גמל/פנסיה`
+
+### Using the pager
+By default, each endpoint returns a list of 25 items per page. Each endpoint has the `info` section which gives info
+about paging:
+* `current` - The page of pager
+* `pages` - The total number of pages
+* `next` - The address for the next page; Optional, will not appear in the **last** page
+* `previous` - The address for the previous one; Optional, will not appear in the **first** page
+
 ## Run and deployment
+
+### Installing
+Like any node based project:
+```bash
+npm i
+```
+
+After that you can run:
+```bash
+npm start
+```
+
+The server will be available in `http://localhost:3000`
+
+### Converting an excel file to JSON
+For now, we are using an excel file as the "DB". The name of the file need to be `source.xlsx` in order for the 
+procedure to succeed. Once the file need to be located **in the root folder of the project** you'll need to run:
+```bash
+npm run excel-to-json
+```
+
+### Deployment
+No need to hustle here. The project connected to heroku auto deployment pipeline which means that any merge will be 
+available after a couple of minutes.
