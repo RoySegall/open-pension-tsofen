@@ -11,9 +11,9 @@ const apis = {
     plural: 'dimProxies',
     single: 'dimProxy',
   },
-  Interest: {
-    plural: 'Interests',
-    single: 'Interest',
+  interest: {
+    plural: 'interests',
+    single: 'interest',
   },
   proxies: {
     plural: 'proxies',
@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
     message: "welcome! Have a look at the apis",
     apis: Object.entries(apis).map(api => {
       const [_, routes] = api;
-      return [`${address}${routes.plural}`, `${address}${routes.single}/{id}`]
+      return [`${address}api/${routes.plural}`, `${address}api/${routes.single}/{id}`]
     })
   })
 });
@@ -40,7 +40,7 @@ Object.entries(apis).map(api => {
   const [file, routes] = api;
   const getFilePath = () => path.join(process.cwd(), 'assets', `${file}.json`);
 
-  app.get(`/${routes.plural}`, (req, res) => {
+  app.get(`/api/${routes.plural}`, (req, res) => {
     try {
       // Read the file content and parse it.
       const fileContent = fs.readFileSync(getFilePath(), 'utf8');
@@ -105,7 +105,7 @@ Object.entries(apis).map(api => {
     }
   });
 
-  app.get(`/${routes.single}/:id`, async (req, res) => {
+  app.get(`/api/${routes.single}/:id`, async (req, res) => {
     const id = req.params.id;
     const file = fs.readFileSync(getFilePath(), 'utf8');
     const parsedFile = JSON.parse(file);
