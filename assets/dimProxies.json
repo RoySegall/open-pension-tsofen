@@ -1,9 +1,1 @@
-{
-  "520040700/1": {
-    "Proxy_Code": "520040700/1",
-    "Compane_ID": 520040700,
-    "Topic": "מינוי דירקטורים (שאינם דצ\"חים)",
-    "Date": "2020-12-20T12:00:00.000Z",
-    "source": "https://maya.tase.co.il/reports/details/1332098/2/0"
-  }
-}
+{"1":{"Proxy_Code":"520040700/1","Security_ID":520040700,"Topic":"מינוי דירקטורים (שאינם דצ\"חים)","Date":"2020-12-20T12:00:00.000Z","source":"https://maya.tase.co.il/reports/details/1332098/2/0"}}

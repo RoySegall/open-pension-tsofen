@@ -2,12 +2,10 @@ const readXlsxFile = require('read-excel-file/node');
 const fs = require('fs');
 
 const sheets = [
-  {origin: 'Proxy', output: 'proxies',primaryKey: null},
-  {origin: 'Interest Parties', output: 'interestParties', primaryKey: null},
+  {origin: 'Interest Parties', output: 'Interest', primaryKey: null},
+  {origin: 'Proxy', output: 'proxies', primaryKey: null},
+  {origin: 'Dim Proxy', output: 'dimProxies', primaryKey: null},
 
-  {origin: 'Dim Manager', output: 'dimManagers', primaryKey: 'Manager_ID'},
-  {origin: 'Dim Compamy', output: 'dimCompanies', primaryKey: 'Compane_ID'},
-  {origin: 'Dim Proxy', output: 'dimProxies', primaryKey: 'Proxy_Code'},
 ];
 
 sheets.map((sheet) => {
@@ -15,14 +13,17 @@ sheets.map((sheet) => {
   let first = true;
   let headers = [];
 
-  readXlsxFile('/Applications/MAMP/htdocs/open_pension_tsofen/excel.xlsx', {sheet: sheet.origin}).then((rows) => {
+  readXlsxFile('./foo.xlsx', {sheet: sheet.origin}).then((rows) => {
 
-    rows.map((row, index) => {
+    rows.map(async (row, index) => {
       if (first) {
         headers = row;
         first = false;
         return
       }
+
+      console.info(`Handle line ${index} in file ${sheet.origin}`);
+
       const jsonRow = {};
       headers.forEach((key, i) => jsonRow[key] = row[i]);
 
@@ -39,6 +40,8 @@ sheets.map((sheet) => {
       console.log(`The file ${sheet.output}.json was written OK! 🤠`);
     });
 
+  }).catch((e) => {
+    console.error(e);
   });
 
 });
