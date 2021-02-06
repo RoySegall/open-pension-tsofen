@@ -49,11 +49,21 @@ Description:
 * `Oficer_education` - The education of the participant
 * `Oficer_VC` - The VC of the participant
 * `Oficer_Other_jobs` - More position which the participant took over
-* `Relative` - ??
-* `Financial expert` - ??
+* `Relative` - Does the participant related to voting subject
+* `Financial expert` - Does the participant is a financial expert
 
 Note: `Relative` and `Financial expert` will return `כן` or `לא` as a possible values
 
+### Interest
+
+Description:
+
+* `Security_ID` - ??
+* `company_name` - The company name
+* `Sector Nisha` - The sector niche which the company has activity at
+* `fund_name` - ??
+* `Chanel` - ??
+* `A AVE Vote` - ??
 
 ## Advanced queries
 
