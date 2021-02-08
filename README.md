@@ -27,7 +27,7 @@ This endpoint will retrieve all the topics which the voting right owners can par
 
 Description:
 * `Proxy_Code` - An identifier for topic
-* `Security_ID`: 520040700 - ??
+* `Security_ID` - Represents the stocks which relate to the current voting
 * `Topic` - The topic of voting
 * `Date` - The date of the vote
 * `source` - The URL which the voting has been originated
@@ -45,7 +45,7 @@ Description:
 * `Officers_ID` - 64516271
 * `Officers_Name` - The full name of the participant
 * `Oficer_Birthday` - The birthday of the participant
-* `Oficer_Personal_interest` - ??
+* `Oficer_Personal_interest` - How does the candidate is relate to the company which the voting will impact
 * `Oficer_education` - The education of the participant
 * `Oficer_VC` - The VC of the participant
 * `Oficer_Other_jobs` - More position which the participant took over
@@ -58,12 +58,12 @@ Note: `Relative` and `Financial expert` will return `כן` or `לא` as a possib
 
 Description:
 
-* `Security_ID` - ??
+* `Security_ID` - A number which represent stocks. This will help you see which stocks correlate to which dim proxy. 
 * `company_name` - The company name
 * `Sector Nisha` - The sector niche which the company has activity at
-* `fund_name` - ??
-* `Chanel` - ??
-* `A AVE Vote` - ??
+* `fund_name` - The fund name.
+* `Chanel` - The channel name.
+* `A AVE Vote` - The holding which a company has in the stock
 
 ## Advanced queries
 
