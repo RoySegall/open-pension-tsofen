@@ -2,7 +2,7 @@ const readXlsxFile = require('read-excel-file/node');
 const fs = require('fs');
 
 const sheets = [
-  {origin: 'Interest Parties', output: 'Interest', primaryKey: null},
+  {origin: 'Interest Parties', output: 'interest', primaryKey: null},
   {origin: 'Proxy', output: 'proxies', primaryKey: null},
   {origin: 'Dim Proxy', output: 'dimProxies', primaryKey: null},
 
