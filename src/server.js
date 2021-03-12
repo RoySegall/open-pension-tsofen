@@ -19,6 +19,10 @@ const apis = {
     plural: 'proxies',
     single: 'proxy',
   },
+  bodyChannels: {
+    plural: 'bodyChannels',
+    single: 'bodyChannel',
+  },
 };
 
 const perPage = 25;

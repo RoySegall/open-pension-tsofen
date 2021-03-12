@@ -56,14 +56,44 @@ Note: `Relative` and `Financial expert` will return `כן` or `לא` as a possib
 
 ### Interest
 
-Description:
+Accessing:
+* `all`: `/api/interests`
+* `single`: `/api/interest/{id}`
 
+Description:
 * `Security_ID` - A number which represent stocks. This will help you see which stocks correlate to which dim proxy. 
 * `company_name` - The company name
 * `Sector Nisha` - The sector niche which the company has activity at
 * `fund_name` - The fund name.
 * `Chanel` - The channel name.
 * `A AVE Vote` - The holding which a company has in the stock
+
+### Body channels
+
+Accessing:
+* `all`: `/api/bodyChannels`
+* `single`: `/api/bodyChannel/{name}`
+
+
+Aggregate all bodies and their channels. The key represent the name of the body, and the value is a list with the 
+channels:
+
+```json
+{
+  "data": {
+    "מור": [
+      "גמל/פנסיה"
+    ],
+    "פסגות": [
+      "גמל/פנסיה"
+    ],
+    "מגדל": [
+      "ביטוח",
+      "גמל/פנסיה"
+    ]
+  }
+}
+```
 
 ## Advanced queries
 

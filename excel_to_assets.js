@@ -2,43 +2,68 @@ const readXlsxFile = require('read-excel-file/node');
 const fs = require('fs');
 
 const sheets = [
-  {origin: 'Interest Parties', output: 'interest', primaryKey: null},
-  {origin: 'Proxy', output: 'proxies', primaryKey: null},
-  {origin: 'Dim Proxy', output: 'dimProxies', primaryKey: null},
-
+  {origin: 'Interest Parties', output: 'interest', shouldCreateBodyChanelOutput: true},
+  {origin: 'Proxy', output: 'proxies', shouldCreateBodyChanelOutput: false},
+  {origin: 'Dim Proxy', output: 'dimProxies', shouldCreateBodyChanelOutput: false},
 ];
 
-sheets.map((sheet) => {
+const bodyNameField = 'שם גוף';
+
+function writeJSONToFile({output, jsonFile}) {
+  fs.writeFile(`./assets/${output}.json`, JSON.stringify(jsonFile), function (err) {
+
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log(`The file ${output}.json was written OK! 🤠`);
+  });
+}
+
+sheets.map(({origin, output, shouldCreateBodyChanelOutput}) => {
   const jsonFile = {};
   let first = true;
   let headers = [];
 
-  readXlsxFile('./foo.xlsx', {sheet: sheet.origin}).then((rows) => {
+  readXlsxFile('./source.xlsx', {sheet: origin}).then((rows) => {
+    const bodyChannelJson = {};
 
-    rows.map(async (row, index) => {
+    rows.forEach((row, index) => {
       if (first) {
         headers = row;
         first = false;
-        return
+        return;
       }
 
-      console.info(`Handle line ${index} in file ${sheet.origin}`);
+      console.info(`Handle line ${index} in file ${origin}`);
 
       const jsonRow = {};
       headers.forEach((key, i) => jsonRow[key] = row[i]);
 
-      const key = sheet.primaryKey ? jsonRow[sheet.primaryKey] : index;
-      jsonFile[key] = jsonRow;
-    });
+      jsonFile[index] = jsonRow;
 
-    fs.writeFile(`./assets/${sheet.output}.json`, JSON.stringify(jsonFile), function (err) {
+      if (shouldCreateBodyChanelOutput) {
+        const {[bodyNameField]: bodyName, Chanel} = jsonRow;
+        console.log(bodyName, Chanel);
 
-      if (err) {
-        return console.log(err);
+        // Init the object.
+        if (!Object.keys(bodyChannelJson).includes(bodyName)) {
+          bodyChannelJson[bodyName] = [];
+        }
+
+        if (!bodyChannelJson[bodyName].includes(Chanel)) {
+          bodyChannelJson[bodyName].push(Chanel)
+        }
       }
-
-      console.log(`The file ${sheet.output}.json was written OK! 🤠`);
     });
+
+    // Writing the file which represent the sheet from the excel.
+    writeJSONToFile({output, jsonFile});
+
+    // Writing the file for the body-channel entry point.
+    if (shouldCreateBodyChanelOutput) {
+      writeJSONToFile({output: 'bodyChannels', jsonFile: bodyChannelJson});
+    }
 
   }).catch((e) => {
     console.error(e);
