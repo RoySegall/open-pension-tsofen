@@ -25,7 +25,6 @@ const apis = {
   },
 };
 
-const perPage = 25;
 const getCurrentAddress = (req) => req.protocol + '://' + req.get('host') + req.originalUrl;
 
 app.get('/', (req, res) => {
@@ -45,6 +44,8 @@ Object.entries(apis).map(api => {
   const getFilePath = () => path.join(process.cwd(), 'assets', `${file}.json`);
 
   app.get(`/api/${routes.plural}`, (req, res) => {
+    const perPage = req.query.per_page || 25;
+
     try {
       // Read the file content and parse it.
       const fileContent = fs.readFileSync(getFilePath(), 'utf8');
@@ -94,11 +95,11 @@ Object.entries(apis).map(api => {
       if (info.pages !== 1) {
 
         if (info.pages > page) {
-          info.next = `${address}?page=${page + 1}`;
+          info.next = `${address}?page=${page + 1}&per_page=${perPage}`;
         }
 
         if (page > 0) {
-          info.previous = `${address}?page=${page - 1}`;
+          info.previous = `${address}?page=${page - 1}&per_page=${perPage}`;
         }
       }
 
