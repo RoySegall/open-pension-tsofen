@@ -1,9 +1,1 @@
-{
-  "1": {
-    "Proxy_Code": "520040700/1",
-    "Security_ID": 662577,
-    "Topic": "מינוי דירקטורים (שאינם דצ\"חים)",
-    "Date": "2020-12-20T12:00:00.000Z",
-    "source": "https://maya.tase.co.il/reports/details/1332098/2/0"
-  }
-}
+{"1":{"Proxy_Code":"520040700/1","Security_ID":662577,"Topic":"מינוי דירקטורים (שאינם דצ\"חים)","Date":"2020-12-20T12:00:00.000Z","source":"https://maya.tase.co.il/reports/details/1332098/2/0"},"2":{"Proxy_Code":"520018078/1","Security_ID":604611,"Topic":"מינוי דירקטורים (שאינם דצ\"חים)","Date":"2020-09-10T12:00:00.000Z","source":"https://mayafiles.tase.co.il/rpdf/1314001-1315000/P1314587-00.pdf"}}
